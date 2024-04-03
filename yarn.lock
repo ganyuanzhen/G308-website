@@ -1115,7 +1115,7 @@ __metadata:
     hexo-generator-tag: ^2.0.0
     hexo-permalink-pinyin: ^1.1.0
     hexo-renderer-ejs: ^2.0.0
-    hexo-renderer-marked: ^6.0.0
+    hexo-renderer-marked: ^6.3.0
     hexo-renderer-stylus: ^3.0.1
     hexo-server: ^3.0.0
     hexo-theme-landscape: ^1.0.0
@@ -1374,15 +1374,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hexo-renderer-marked@npm:^6.0.0":
-  version: 6.1.1
-  resolution: "hexo-renderer-marked@npm:6.1.1"
+"hexo-renderer-marked@npm:^6.3.0":
+  version: 6.3.0
+  resolution: "hexo-renderer-marked@npm:6.3.0"
   dependencies:
     dompurify: ^3.0.3
     hexo-util: ^3.1.0
     jsdom: ^20.0.1
     marked: ^4.3.0
-  checksum: 1941511f7c7355788333910d413b7a27c344a58fbdbefb0229e7655f96946056c3538bc24b0089a8b532af6ef3bb3c6ce95e202ade2496330ff4d61b8eb6cf74
+  checksum: f116cb8a182722b2de169a42d521a3d3abf856a1d42e87286c410a262ccdc7016e0089552c67e1b4ef407f13a97f15282607ced9b04df429c778ba9a1b332b3f
   languageName: node
   linkType: hard
 
